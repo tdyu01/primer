@@ -1,5 +1,6 @@
 #pragma once
 #include <sdl\SDL.h>
+#include <glew\glew.h>
 
 enum class GameState {
 	PLAY, EXIT
@@ -13,7 +14,6 @@ private:
 	int _height;
 	void init();
 	SDL_Window* _window;
-	GameState _gameState;
 	void proccesInput();
 
 public:
