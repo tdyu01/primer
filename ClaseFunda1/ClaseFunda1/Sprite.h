@@ -7,7 +7,7 @@ class CSprite
 	float _y;
 	int _width;
 	int _height;
-	GLuint _vobId;
+	GLuint _vobID;
 public:
 	CSprite();
 	~CSprite();

@@ -1,3 +1,9 @@
-﻿  MainGame.cpp
-  ClaseFunda1.vcxproj -> E:\Clase2\primer\ClaseFunda1\Debug\ClaseFunda1.exe
-  ClaseFunda1.vcxproj -> E:\Clase2\primer\ClaseFunda1\Debug\ClaseFunda1.pdb (Partial PDB)
+﻿  Sprite.cpp
+  MainGame.cpp
+  GLS_Program.cpp
+  Error.cpp
+  Clase1.cpp
+  Generating Code...
+  LINK : E:\Semana3-1\primer\ClaseFunda1\Debug\ClaseFunda1.exe not found or not built by the last incremental link; performing full link
+  ClaseFunda1.vcxproj -> E:\Semana3-1\primer\ClaseFunda1\Debug\ClaseFunda1.exe
+  ClaseFunda1.vcxproj -> E:\Semana3-1\primer\ClaseFunda1\Debug\ClaseFunda1.pdb (Partial PDB)
